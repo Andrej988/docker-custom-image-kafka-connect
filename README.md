@@ -1,0 +1,1 @@
+# docker-custom-image-kafka-connect
